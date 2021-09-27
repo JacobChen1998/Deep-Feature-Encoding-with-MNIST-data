@@ -1,2 +1,2 @@
-# comparison_of_MNIST_encoding_and_org_based_on_umap
-UMAP is used to present the difference between the original MNIST data and its encoded features.
+This project shows the difference between the preserved feature set and the original set when doing encoding in tensorflow-keras.
+In the comparison part, we use UMAP (Uniform Manifold Approximation and Projection) to downscale and visualize the data. 
